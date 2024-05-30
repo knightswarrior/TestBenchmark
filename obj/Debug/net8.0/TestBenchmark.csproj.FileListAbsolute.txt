@@ -1,0 +1,15 @@
+/Users/hongliang/RiderProjects/TestBenchmark/bin/Debug/net8.0/TestBenchmark
+/Users/hongliang/RiderProjects/TestBenchmark/bin/Debug/net8.0/TestBenchmark.deps.json
+/Users/hongliang/RiderProjects/TestBenchmark/bin/Debug/net8.0/TestBenchmark.runtimeconfig.json
+/Users/hongliang/RiderProjects/TestBenchmark/bin/Debug/net8.0/TestBenchmark.dll
+/Users/hongliang/RiderProjects/TestBenchmark/bin/Debug/net8.0/TestBenchmark.pdb
+/Users/hongliang/RiderProjects/TestBenchmark/obj/Debug/net8.0/TestBenchmark.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hongliang/RiderProjects/TestBenchmark/obj/Debug/net8.0/TestBenchmark.AssemblyInfoInputs.cache
+/Users/hongliang/RiderProjects/TestBenchmark/obj/Debug/net8.0/TestBenchmark.AssemblyInfo.cs
+/Users/hongliang/RiderProjects/TestBenchmark/obj/Debug/net8.0/TestBenchmark.csproj.CoreCompileInputs.cache
+/Users/hongliang/RiderProjects/TestBenchmark/obj/Debug/net8.0/TestBenchmark.dll
+/Users/hongliang/RiderProjects/TestBenchmark/obj/Debug/net8.0/refint/TestBenchmark.dll
+/Users/hongliang/RiderProjects/TestBenchmark/obj/Debug/net8.0/TestBenchmark.pdb
+/Users/hongliang/RiderProjects/TestBenchmark/obj/Debug/net8.0/TestBenchmark.genruntimeconfig.cache
+/Users/hongliang/RiderProjects/TestBenchmark/obj/Debug/net8.0/ref/TestBenchmark.dll
+/Users/hongliang/RiderProjects/TestBenchmark/obj/Debug/net8.0/TestBenchmark.sourcelink.json
